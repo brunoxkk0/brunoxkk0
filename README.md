@@ -1,7 +1,7 @@
 ## Olá, me chamo Bruno!
 ### Seja bem-vindo ao meu perfil GitHub 👋
 
-Eu tenho 20 anos e sou do Brasil, apaixonado por tecnologia e programação, gosto de entender como as coisas são feitas para tentar criar algo novo. <br/>
+Eu tenho 21 anos e sou do Brasil, apaixonado por tecnologia e programação, gosto de entender como as coisas são feitas para tentar criar algo novo. <br/>
 Estudo Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná — UTFPR. <br/>
 Atualmente estou focando nos meus estudos sobre desenvolvimento web. <br/>
 
