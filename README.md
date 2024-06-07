@@ -27,3 +27,6 @@ Atualmente estou focando nos meus estudos sobre desenvolvimento back-end. <br/>
 <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxkk0&layout=compact&langs_count=7&theme=dracula" alt="Github Statistics"/>
 </div>
 <a href="https://wakatime.com/@8f732bf1-5c5f-4a64-8177-50692ce7223b"><img src="https://wakatime.com/badge/user/8f732bf1-5c5f-4a64-8177-50692ce7223b.svg?style=for-the-badge" alt="Total time coded since Apr 20 2023" /></a>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/RyanPereiraS/RyanPereiraS/blob/main/beautiful-mountains-landscape.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
