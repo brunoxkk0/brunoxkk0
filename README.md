@@ -29,4 +29,4 @@ Atualmente estou focando nos meus estudos sobre desenvolvimento back-end. <br/>
 <a href="https://wakatime.com/@8f732bf1-5c5f-4a64-8177-50692ce7223b"><img src="https://wakatime.com/badge/user/8f732bf1-5c5f-4a64-8177-50692ce7223b.svg?style=for-the-badge" alt="Total time coded since Apr 20 2023" /></a>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/RyanPereiraS/RyanPereiraS/blob/main/beautiful-mountains-landscape.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/brunoxkk0/brunoxkk0/blob/main/cowboy-horse-night-digital-art-4k-wallpaper-uhdpaper.com-203%403%40a.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.2;]{x0000}$}
