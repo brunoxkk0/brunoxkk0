@@ -22,8 +22,17 @@ Atualmente estou focando nos meus estudos sobre desenvolvimento back-end. <br/>
 
 ### Algumas Estatísticas
 <div>
+<div>
 <a href="https://github.com/brunoxkk0"></a>
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=brunoxkk0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github Statistics"/>
 <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxkk0&layout=compact&langs_count=7&theme=dracula" alt="Github Statistics"/>
 </div>
-<a href="https://wakatime.com/@8f732bf1-5c5f-4a64-8177-50692ce7223b"><img src="https://wakatime.com/badge/user/8f732bf1-5c5f-4a64-8177-50692ce7223b.svg?style=for-the-badge" alt="Total time coded since Apr 20 2023" /></a>
+  <a href="https://wakatime.com/@8f732bf1-5c5f-4a64-8177-50692ce7223b"><img src="https://wakatime.com/badge/user/8f732bf1-5c5f-4a64-8177-50692ce7223b.svg?style=for-the-badge" alt="Total time coded since Apr 20 2023" /></a>
+</div>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/brunoxkk0"
+  width="600"
+  height="300"
+/>
+</a>
